@@ -1,0 +1,1 @@
+enum BridMovement { middle, up, down }
